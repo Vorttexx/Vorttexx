@@ -1,0 +1,182 @@
+
+
+
+
+body {
+    background-size: 100% auto !important;
+    background-attachment: fixed 0px 0px !important;
+}
+
+#dashboard  .icon-grab {
+    background: url(http://i1290.photobucket.com/albums/b526/Figuer_Jorsh/flowRoot4_zpsfw8o6tew.png) no-repeat !important;
+  
+}
+
+#room-bar .icon-room {
+    background: url(http://i1290.photobucket.com/albums/b526/Figuer_Jorsh/flowRoot4_zpsfw8o6tew.png) no-repeat !important;
+  
+}
+.icon-chat-host > span {
+    color: #3698FF !important;
+}
+
+#playlist-panel {
+    opacity: .85;
+}
+#history-panel {
+    opacity: .85;
+}
+
+#footer {
+    background-color: rgba(30 30 36 1) !important;
+}
+
+#playback-controls .button.snooze {
+    background: #00afe4 !important;
+    opacity: .7;
+}
+
+#playlist-button {
+    background: #000000 !important;
+}
+
+#playlist-menu .menu .row.selected {
+    background: #39688D !important;
+}
+
+.media-list .row.now-playing {
+    background: #FF3558 !important;
+    border-bottom: 1px solid #ff5f7c !important;
+}
+
+#playlist-menu .menu .row .count {
+    color: #FF3558 !important;
+}
+
+#grab .bottom #grab.selected {
+    background: #00afe4 !important;
+}
+
+#footer-user .bar .progress {
+    background: #FF3558 !important;
+}
+
+.experience .xp .bar .progress {
+    background: #FF3558 !important;
+}
+
+.activate-button span {
+    color: #FFFFFF !important;
+}
+
+#playlist-activate-button {
+    background: none !important;
+}
+
+#playlist-activate-button span {
+    color: #FF3558 !important;
+}
+
+.media-list .row.now-playing .actions {
+    background: #FF3558 !important;
+}
+
+.media-list .row.selected {
+    background: #39688D !important;
+}
+
+.media-list .selected .actions {
+    background: #FF3558 !important;
+}
+
+#user-lists .header .button.staff.selected {
+    border-bottom: 1px solid #FF3558 !important;
+}
+
+.dialog.destructive .button.submit {
+}
+
+#room-info .button.disabled {
+    background: #FF3558 !important;
+}
+
+#room-info .button.enabled {
+    background: #00afe4 !important;
+}
+
+#playlist-create:hover {
+    background: #0191ff !important;
+}
+
+#playlist-import:hover {
+    background: #0191ff !important;
+}
+
+#playlist-edit-button:hover {
+    background: #0191ff !important;
+}
+
+#playlist-shuffle-button:hover {
+    background: #0191ff !important;
+}
+
+#playlist-delete-button:hover {
+    background: #c42e3b !important;
+}
+
+.tab-menu button.selected {
+    background: #FF3558 !important;
+}
+
+#dj-button .left {
+    background: #00afe4 !important;
+}
+
+#dj-button.is-leave .left {
+    background: #FF3558 !important;
+}
+
+#dj-button.is-quit .left {
+    background: #FF3558 !important;
+}
+
+.delete-button:hover {
+    background: #FF3558 !important;
+}
+
+.icon-plug-dj {
+    display: none;
+}
+
+#chat .icon .icon-p3 {
+    background-image: url('') !important;
+}
+
+.icon-chat-ambassador + span {
+    color: #89be6c !important;
+}
+
+.icon-chat-host + span {
+    color: #FF3558 !important;
+}
+
+.icon-chat-cohost + span {
+    color: #FF3558 !important;
+}
+
+.icon-chat-manager + span {
+    color: #0191ff !important;
+}
+
+.icon-chat-bouncer + span {
+    color: #01e1ff !important;
+}
+
+.icon-chat-dj + span {
+    color: #89BE6C !important;
+}
+
+.drag-media-box {
+    background-color: #FF3558;
+}
+
