@@ -1,0 +1,45 @@
+{
+    "room":                     "Electro-Ravers",
+    "author":                   "Vorttexx",
+    "icon":                     "http://i1290.photobucket.com/albums/b526/Figuer_Jorsh/flowRoot4_zpsfw8o6tew.png",
+    "css":                      "http://pastebin.com/raw/gNk6u0cy",
+    "rules": {
+        "allowAutorespond":     true,
+        "allowAutowoot":        true,
+        "allowAutojoin":        true,
+        "allowAutograb":        true,
+        "allowSmartVote":       true,
+        "allowEmotes":          true,
+        "allowShowingMehs":     true,
+        "forceSmartVote":       false
+    },
+    "ccc": {
+        "admin":                "#F21313",
+        "ambassador":           "#F3508F",
+        "host":                 "#2787E8",
+        "cohost":               "#27D8E8",
+        "manager":              "#F3508F",
+        "bouncer":              "#38FD07",
+        "rdj":                  "#E5FD07",
+        "subscriber":           "#9AA3B9",
+        "silversubscriber":     "#A1A6B3",
+        "friend":               null,
+        "user":                 null,
+    },
+    "images": {
+        "background":           null,
+        "playback":             null,
+        "admin":                null,
+        "ambassador":           null,
+        "host":                 null,
+        "cohost":               null,
+        "manager":              null,
+        "bouncer":              null,
+        "rdj":                  null,
+        "subscriber":           null,
+        "silversubscriber":     null,
+     },
+    "emotes": {
+        "": ""
+    }
+}
