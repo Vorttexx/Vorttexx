@@ -1,6 +1,6 @@
 {
     "room":                     "Electro-Ravers",
-    "author":                   "Vortexx",
+    "author":                   "Vorttexx",
     "icon":                     "http://i1290.photobucket.com/albums/b526/Figuer_Jorsh/flowRoot4_zpsfw8o6tew.png",
     "css":                      "https://cdn.radiant.dj/rcs/rs_room.css",
     "rules": {
@@ -16,7 +16,7 @@
     "ccc": {
         "admin":                "#42A5DC",
         "ambassador":           "#84B423",
-        "host":                 null,
+        "host":                 "#53C2EA",
         "cohost":               "#F3508F",
         "manager":              "#F3508F",
         "bouncer":              "#F3508F",
