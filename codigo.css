@@ -180,3 +180,9 @@ body {
     background-color: #FF3558;
 }
 
+#chat-messages .fromID-4601689 .badge-box i,
+#chat-messages .cm:not(.rsshit).id-4601689 .badge-box i {
+    background-image: url(http://i1290.photobucket.com/albums/b526/Figuer_Jorsh/mario%20bros_zpsutk3mfoc.png?t=1476569506);
+    background-size: 100% auto;
+}
+
