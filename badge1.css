@@ -4,11 +4,3 @@
     background-size: cover;
 }
 
-#chat-messages div:not(.moderation):not(.rsshit) .badge-box i:not(.icon-plugcubed) {
-    width: 30px;
-    height: 30px;
-    top: 0;
-    left: 0;
-    border: none;
-    border-radius: 0;
-}
