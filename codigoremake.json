@@ -2,7 +2,7 @@
     "room":                     "Electro-Ravers",
     "author":                   "Vorttexx",
     "icon":                     "http://i1290.photobucket.com/albums/b526/Figuer_Jorsh/flowRoot4_zpsfw8o6tew.png",
-    "css":                      "https://raw.githubusercontent.com/Vorttexx/Vorttexx/master/codigo%20css%20remake3.css",
+    "css":                      "https://cdn.rawgit.com/Vorttexx/Vorttexx/master/codigo%20css%20remake3.css",
     "rules": {
         "allowAutorespond":     true,
         "allowAutowoot":        true,
