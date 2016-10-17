@@ -3,3 +3,12 @@
     background-image: url(http://i1290.photobucket.com/albums/b526/Figuer_Jorsh/mario%20bros_zpsutk3mfoc.png);
     background-size: cover;
 }
+
+#chat-messages div:not(.moderation):not(.rsshit) .badge-box i:not(.icon-plugcubed) {
+    width: 30px;
+    height: 30px;
+    top: 0;
+    left: 0;
+    border: none;
+    border-radius: 0;
+}
