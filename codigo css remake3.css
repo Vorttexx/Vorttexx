@@ -124,7 +124,7 @@
 #dj-button.is-quit .left, #dj-button.is-leave .left, #dj-button.is-wait .left, #dj-button.is-locked .left, #dj-button.is-full .left {
 background: #121214;
 border-radius: 8px;
-border-left-width: 4px;
+/*border-left-width: 4px;
 }
 #dj-button.is-quit .left {
 border-left: 3px solid #f46b40;
@@ -140,7 +140,7 @@ border-left: 3px solid #734ba9;
 }
 #dj-button.is-full .left {
 border-left: 3px solid #CCCCCC;
-}
+}*/
 #dj-button {
 background: #222224;
 border-radius: 8px;
@@ -223,10 +223,5 @@ background: #c42e3b;
   animation: fadein 0.3s;
 }
 
-#chat-messages .fromID-4601689 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-4601689 .badge-box i {
-    background-image: url(http://i1290.photobucket.com/albums/b526/Figuer_Jorsh/mario%20bros_zpsutk3mfoc.png?t=1476569506);
-    background-size: cover;
-}
 
 
