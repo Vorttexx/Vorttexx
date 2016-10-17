@@ -1,3 +1,5 @@
+@import url("https://chilloutmusica.github.io/cm/src/users.css");
+
 #user-lists .list.staff .group {
     background: linear-gradient(to right,rgba(0, 0, 0, 0) 0,rgba(0, 0, 0, 1) 100%) !important;
 }
