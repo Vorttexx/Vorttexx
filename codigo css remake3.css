@@ -1,6 +1,6 @@
 @import url("https://cdn.rawgit.com/Vorttexx/Vorttexx/master/badge1.css");
 
-/*#user-lists .list.staff .group {
+#user-lists .list.staff .group {
     background: linear-gradient(to right,rgba(0, 0, 0, 0) 0,rgba(0, 0, 0, 1) 100%) !important;
 }
 #footer {
@@ -47,7 +47,7 @@
         background: linear-gradient(to right,rgba(0, 0, 0, 0.70) 0,rgba(0, 0, 0, 1) 100%);
     }
 }
-/*#chat .message:nth-child(2n+1),#chat .mention:nth-child(2n+1),#chat .skip:nth-child(2n+1),#chat .moderation:nth-child(2n+1),#chat .emote:nth-child(2n+1),#chat .update:nth-child(2n+1),#chat .welcome:nth-child(2n+1) {
+#chat .message:nth-child(2n+1),#chat .mention:nth-child(2n+1),#chat .skip:nth-child(2n+1),#chat .moderation:nth-child(2n+1),#chat .emote:nth-child(2n+1),#chat .update:nth-child(2n+1),#chat .welcome:nth-child(2n+1) {
     background-color: rgba(17, 19, 23, 0.32);
     -webkit-animation:fadein 0.25s;
     -moz-animation:fadein 0.25s;
@@ -65,7 +65,7 @@
 #chat .mention {
     font-weight: 700;
     /*padding-left: 25px;*/
-/*    border-left: #7681FF 3px solid;
+    border-left: #7681FF 3px solid;
 }
 #chat .emote .from {
      color: #ac76ff !important;
@@ -76,13 +76,13 @@
 }
 #chat-messages .emote .icon {
     /*left: 4px;*/
-/*}
+}
 #chat .emote .text {
     font-style: normal;
     font-weight: bold;
     color: #ac76ff;
-}*/
-/*#footer {
+}
+#footer {
     background: linear-gradient(to bottom,rgba(0, 0, 0, 0.25) 0,rgba(0, 0, 0, 0.75) 100%);
 }
 #playlist-button {
@@ -124,9 +124,9 @@
 #dj-button.is-quit .left, #dj-button.is-leave .left, #dj-button.is-wait .left, #dj-button.is-locked .left, #dj-button.is-full .left {
 background: #121214;
 border-radius: 8px;
-/*border-left-width: 4px;
+/*border-left-width: 4px;*/
 }
-#dj-button.is-quit .left {
+/*#dj-button.is-quit .left {
 border-left: 3px solid #f46b40;
 }
 #dj-button.is-leave .left {
@@ -141,7 +141,7 @@ border-left: 3px solid #734ba9;
 #dj-button.is-full .left {
 border-left: 3px solid #CCCCCC;
 }*/
-/*#dj-button {
+#dj-button {
 background: #222224;
 border-radius: 8px;
 }
@@ -174,15 +174,15 @@ background: #c42e3b;
 }
 /* Chat Fade */
 
-/*#chat .emote, #chat .mention, #chat .message, #chat .moderation, #chat .skip, #chat .system, #chat .update, #chat .welcome {
+#chat .emote, #chat .mention, #chat .message, #chat .moderation, #chat .skip, #chat .system, #chat .update, #chat .welcome {
   -webkit-animation: fadein 0.35s;
   -moz-animation: fadein 0.35s;
   -ms-animation: fadein 0.35s;
   -o-animation: fadein 0.35s;
   animation: fadein 0.35s;
-}*/
+}
 
-/*@keyframes fadein {
+@keyframes fadein {
   from {opacity: 0;};
   to {opacity: 1;};
 }
@@ -221,198 +221,4 @@ background: #c42e3b;
   -ms-animation: fadein 0.3s;
   -o-animation: fadein 0.3s;
   animation: fadein 0.3s;
-}*/
-
-body {
-    background-size: 100% auto !important;
-    background-attachment: fixed 0px 0px !important;
 }
-
-#room-bar .icon-room {
-    background: url(https://chilloutmusica.github.io/cm/src/images/cm.png);
-}
-
-#playback-container {
-    background-image: url();
-    background-position: center;
-    background-size: 100% auto;
-}
-
-#chat .message:nth-child(2n+1) #chat .mention:nth-child(2n+1) #chat .skip:nth-child(2n+1) #chat .moderation:nth-child(2n+1) #chat .emote:nth-child(2n+1) #chat .update:nth-child(2n+1) #chat .welcome:nth-child(2n+1) {
-    background-color: rgba(17 19 23 0.32);
-    -webkit-animation: fadein 0.25s;
-    -moz-animation: fadein 0.25s;
-    -ms-animation: fadein 0.25s;
-    -o-animation: fadein 0.25s;
-    animation: fadein 0.25s;
-    animation: fadein 0.25s;
-    background-color: #111317;
-    border-radius: 0px;
-    background-color: rgba(17 19 23 0.5);
-}
-
-#chat #chat-input {
-    background: rgba(80 80 80 0.25);
-}
-
-.icon-chat-host > span {
-    color: #FF3558 !important;
-}
-
-#playlist-panel {
-    opacity: .85;
-}
-
-#footer {
-    background-color: rgba(30 30 36 1) !important;
-}
-
-#playback-controls .button.snooze {
-    background: #00afe4 !important;
-    opacity: .7;
-}
-
-#playlist-button {
-    background: #FF3558 !important;
-}
-
-#playlist-menu .menu .row.selected {
-    background: #39688D !important;
-}
-
-.media-list .row.now-playing {
-    background: #FF3558 !important;
-    border-bottom: 1px solid #ff5f7c !important;
-}
-
-#playlist-menu .menu .row .count {
-    color: #FF3558 !important;
-}
-
-#grab .bottom #grab.selected {
-    background: #00afe4 !important;
-}
-
-#footer-user .bar .progress {
-    background: #FF3558 !important;
-}
-
-.experience .xp .bar .progress {
-    background: #FF3558 !important;
-}
-
-.activate-button span {
-    color: #FFFFFF !important;
-}
-
-#playlist-activate-button {
-    background: none !important;
-}
-
-#playlist-activate-button span {
-    color: #FF3558 !important;
-}
-
-.media-list .row.now-playing .actions {
-    background: #FF3558 !important;
-}
-
-.media-list .row.selected {
-    background: #39688D !important;
-}
-
-.media-list .selected .actions {
-    background: #FF3558 !important;
-}
-
-#user-lists .header .button.staff.selected {
-    border-bottom: 1px solid #FF3558 !important;
-}
-
-.dialog.destructive .button.submit {
-}
-
-#room-info .button.disabled {
-    background: #FF3558 !important;
-}
-
-#room-info .button.enabled {
-    background: #00afe4 !important;
-}
-
-#playlist-create:hover {
-    background: #0191ff !important;
-}
-
-#playlist-import:hover {
-    background: #0191ff !important;
-}
-
-#playlist-edit-button:hover {
-    background: #0191ff !important;
-}
-
-#playlist-shuffle-button:hover {
-    background: #0191ff !important;
-}
-
-#playlist-delete-button:hover {
-    background: #c42e3b !important;
-}
-
-.tab-menu button.selected {
-    background: #FF3558 !important;
-}
-
-#dj-button .left {
-    background: #00afe4 !important;
-}
-
-#dj-button.is-leave .left {
-    background: #FF3558 !important;
-}
-
-#dj-button.is-quit .left {
-    background: #FF3558 !important;
-}
-
-.delete-button:hover {
-    background: #FF3558 !important;
-}
-
-.icon-plug-dj {
-    display: none;
-}
-
-#chat .icon .icon-p3 {
-    background-image: url('') !important;
-}
-
-.icon-chat-ambassador + span {
-    color: #89be6c !important;
-}
-
-.icon-chat-host + span {
-    color: #FF3558 !important;
-}
-
-.icon-chat-cohost + span {
-    color: #FF3558 !important;
-}
-
-.icon-chat-manager + span {
-    color: #0191ff !important;
-}
-
-.icon-chat-bouncer + span {
-    color: #01e1ff !important;
-}
-
-.icon-chat-dj + span {
-    color: #89BE6C !important;
-}
-
-.drag-media-box {
-    background-color: #FF3558;
-}
-
