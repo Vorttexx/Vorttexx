@@ -1,3 +1,5 @@
+
+@import url("https://raw.githubusercontent.com/Vorttexx/Vorttexx/master/badge1");
 #user-lists .list.staff .group {
     background: linear-gradient(to right,rgba(0, 0, 0, 0) 0,rgba(0, 0, 0, 1) 100%) !important;
 }
@@ -219,10 +221,4 @@ background: #c42e3b;
   -ms-animation: fadein 0.3s;
   -o-animation: fadein 0.3s;
   animation: fadein 0.3s;
-}
-
-#chat-messages .fromID-4601689 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-4601689 .badge-box i {
-    background-image: url(http://i1290.photobucket.com/albums/b526/Figuer_Jorsh/mario%20bros_zpsutk3mfoc.png?t=1476569506);
-    background-size: 100% auto;
 }
