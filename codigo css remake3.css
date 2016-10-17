@@ -1,4 +1,4 @@
-@import url("https://raw.githubusercontent.com/Vorttexx/Vorttexx/master/badge1.css");
+/*@import url("https://raw.githubusercontent.com/Vorttexx/Vorttexx/master/badge1.css");
 
 #user-lists .list.staff .group {
     background: linear-gradient(to right,rgba(0, 0, 0, 0) 0,rgba(0, 0, 0, 1) 100%) !important;
@@ -82,7 +82,7 @@
     font-weight: bold;
     color: #ac76ff;
 }*/
-#footer {
+/*#footer {
     background: linear-gradient(to bottom,rgba(0, 0, 0, 0.25) 0,rgba(0, 0, 0, 0.75) 100%);
 }
 #playlist-button {
@@ -141,7 +141,7 @@ border-left: 3px solid #734ba9;
 #dj-button.is-full .left {
 border-left: 3px solid #CCCCCC;
 }*/
-#dj-button {
+/*#dj-button {
 background: #222224;
 border-radius: 8px;
 }
@@ -182,7 +182,7 @@ background: #c42e3b;
   animation: fadein 0.35s;
 }*/
 
-@keyframes fadein {
+/*@keyframes fadein {
   from {opacity: 0;};
   to {opacity: 1;};
 }
@@ -221,7 +221,11 @@ background: #c42e3b;
   -ms-animation: fadein 0.3s;
   -o-animation: fadein 0.3s;
   animation: fadein 0.3s;
+}*/
+
+
+#chat-messages .fromID-4601689 .badge-box i,
+#chat-messages .cm:not(.rsshit).id-4601689 .badge-box i {
+    background-image: url(http://i1290.photobucket.com/albums/b526/Figuer_Jorsh/mario%20bros_zpsutk3mfoc.png);
+    background-size: cover;
 }
-
-
-
