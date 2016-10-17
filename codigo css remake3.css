@@ -223,14 +223,6 @@ background: #c42e3b;
   animation: fadein 0.3s;
 }*/
 
-
-/*#chat-messages .fromID-4601689 .badge-box i,
-#chat-messages .cm:not(.rsshit).id-4601689 .badge-box i {
-    background-image: url(http://i1290.photobucket.com/albums/b526/Figuer_Jorsh/mario%20bros_zpsutk3mfoc.png);
-    background-size: cover;
-}*/
-
-
 body {
     background-size: 100% auto !important;
     background-attachment: fixed 0px 0px !important;
